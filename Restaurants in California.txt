@@ -1,6 +1,4 @@
 ﻿Restaurants near St. Louis Airport
-
-
 * McDonald’s
    * 10805 St Charles Rock Rd, St Ann, MO 63074
    * 24/7 Lunch, Breakfast, and Dinner
@@ -40,12 +38,6 @@ Restaurants near San Diego Airport
    * Open from 11AM - 2:30PM, 4:30 - 9:30PM Monday through Friday
    * Open from 11AM - 9:30PM Saturday
    * Price: $$
-
-
-
-
-
-
 * Oscar’s Mexican Seafood
    * 703 Turquoise St San Diego, CA 92109
    * Sunday - Thursday 8AM - 9PM
@@ -88,12 +80,6 @@ Restaurants in Los Angeles
       * Sunday: 11:30AM - 9:00PM
 
 
-
-
-
-
-
-
 Restaurants in San Francisco 
 * Nopa
    * 560 Divisadero San Francisco, CA 94117
@@ -132,16 +118,6 @@ Restaurants in Sacramento
       * Fri: 11:30AM - 2:30PM, 5:00PM - 10:00PM
       * Sat: 5:00PM - 10:00PM
    * Price: $$$
-
-
-
-
-
-
-
-
-
-
 * Seasons 52
    * 1689 Arden Way #1065, Sacramento, CA 95815
    * Hours:
