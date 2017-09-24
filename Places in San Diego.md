@@ -1,4 +1,4 @@
-# Place to visit in San Diego
+# Places to in San Diego
 
 ### 1.San Diego Zoo
 
