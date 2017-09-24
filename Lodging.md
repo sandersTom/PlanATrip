@@ -29,7 +29,7 @@ Hotel Name: Hilton Parc 55 San Francisco Union Square<br />
 Location: 55 Cyril Magnin Street, Union Square, San Francisco, CA 94102<br />
 Rooms: 3 rooms (3 double rooms with two queen beds)<br />
 Cost: $516 total<br />
-
+![san francisco screenshot](https://user-images.githubusercontent.com/16103137/30787607-72c97a6c-a152-11e7-87b6-295fc39b9c7a.png)
 
 
 Summary/Miscellaneous:<br />
