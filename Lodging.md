@@ -21,7 +21,7 @@ Hotel Name: Hyatt Place San Jose, Downtown<br />
 Location: 282 Almaden Boulevard, San Jose, CA 95113<br />
 Rooms: 3 rooms (Three double rooms with two queen beds each)<br />
 Cost: $387 total<br />
-
+![san jose screenshot](https://user-images.githubusercontent.com/16103137/30787604-347ff2cc-a152-11e7-9b44-323f4ea98467.png)
 
 
 San Francisco December 20-21:<br />
