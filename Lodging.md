@@ -13,7 +13,7 @@ Hotel Name: JW Marriot Los Angeles L.A. LIVE, Los Angeles<br />
 Location: 900 W Olympic Blvd, Los Angeles, CA, 90015<br />
 Rooms: 3 rooms (Deluxe two double beds)<br />
 Cost: $259 per room = $777<br />
-
+![los angeles screenshot](https://user-images.githubusercontent.com/16103137/30787602-1381983c-a152-11e7-9b6b-85ed4e13c148.png)
 
 
 San Jose December 19-20:<br />
